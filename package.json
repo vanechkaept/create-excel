@@ -1,0 +1,32 @@
+{
+  "name": "create-excel",
+  "version": "1.0.0",
+  "description": "Advenced Excel on LiveScript ",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanechkaept/create-excel.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel",
+    "LiveScript"
+  ],
+  "author": "Kolmak Ivan <kvhello@ya.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanechkaept/create-excel/issues"
+  },
+  "homepage": "https://github.com/vanechkaept/create-excel#readme",
+  "private": false,
+  "devDependencies": {
+    "webpack": "^5.20.0",
+    "webpack-cli": "^4.5.0"
+  }
+}
